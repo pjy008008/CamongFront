@@ -28,3 +28,8 @@
 ---
 📸 **추가 자료**  
 👉 [Figma 프로토타입 링크](https://www.figma.com/design/CihLl4WW3mxxRS03wQQAg1/%EC%B9%B4%EB%AA%BD%EC%9D%B4%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=267-81&t=3RxRj81DOaNbjwPX-1)  
+
+**실제 사용사진** 
+<br />
+<br />
+<img src="https://github.com/user-attachments/assets/3042355f-788c-49ba-83f9-c2c1b99370db" width="450" height="300" marginTop="30" />
